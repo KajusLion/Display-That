@@ -1,0 +1,93 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Client",
+      "presentation": {
+        "group": "Mod Development - Showcase-Item-main",
+        "order": 0
+      },
+      "projectName": "Showcase-Item-main",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\clientRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\clientRunVmArgs.txt",
+        "-Dfml.modFolders\u003ddisplaythat%%C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Data",
+      "presentation": {
+        "group": "Mod Development - Showcase-Item-main",
+        "order": 1
+      },
+      "projectName": "Showcase-Item-main",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\dataRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\dataRunVmArgs.txt",
+        "-Dfml.modFolders\u003ddisplaythat%%C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "GameTestServer",
+      "presentation": {
+        "group": "Mod Development - Showcase-Item-main",
+        "order": 2
+      },
+      "projectName": "Showcase-Item-main",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\gameTestServerRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\gameTestServerRunVmArgs.txt",
+        "-Dfml.modFolders\u003ddisplaythat%%C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    },
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Server",
+      "presentation": {
+        "group": "Mod Development - Showcase-Item-main",
+        "order": 3
+      },
+      "projectName": "Showcase-Item-main",
+      "mainClass": "net.neoforged.devlaunch.Main",
+      "args": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\serverRunProgramArgs.txt"
+      ],
+      "vmArgs": [
+        "@C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\build\\moddev\\serverRunVmArgs.txt",
+        "-Dfml.modFolders\u003ddisplaythat%%C:\\Users\\Kajus\\Desktop\\Projects\\Mods\\Showcase-Item-main\\bin\\main"
+      ],
+      "cwd": "${workspaceFolder}\\run",
+      "env": {},
+      "console": "internalConsole",
+      "shortenCommandLine": "none"
+    }
+  ]
+}

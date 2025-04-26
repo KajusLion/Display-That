@@ -1,0 +1,865 @@
+[23:03:33] [main/INFO]: ModLauncher running: args [--username, KajusLion, --version, neoforge-21.1.139, --gameDir, C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP, --assetsDir, C:\Users\Kajus\curseforge\minecraft\Install\assets, --assetIndex, 17, --uuid, 7ffefe1015ac4aaa813c68ef6d4f0a85, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, YjNjMDUxMDAtNzY5ZS00NGRiLTk0ZGQtM2U1YzUzYmQ1MGYx, --xuid, 2535453682157591, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Kajus\curseforge\minecraft\Install\quickPlay\java\1745697808782.json, --fml.neoForgeVersion, 21.1.139, --fml.fmlVersion, 4.0.38, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, --launchTarget, forgeclient]
+[23:03:33] [main/INFO]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.3+9-LTS
+[23:03:33] [main/INFO]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.3 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[23:03:34] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[23:03:34] [main/INFO]: Trying GL version 4.6
+[23:03:34] [main/INFO]: Requested GL version 4.6 got version 4.6
+[23:03:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Kajus/curseforge/minecraft/Install/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%23113!/ Service=ModLauncher Env=CLIENT
+[23:03:35] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 2070/PCIe/SSE2 GL version 4.6.0 NVIDIA 560.94, NVIDIA Corporation
+[23:03:35] [main/INFO]: Found mod file "client-1.21.1-20240808.144430-srg.jar" [locator: production client provider +net.neoforged:neoforge:21.1.139:client]
+[23:03:35] [main/INFO]: Found mod file "neoforge-21.1.139-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[C:\Users\Kajus\curseforge\minecraft\Install\libraries\net\neoforged\neoforge\21.1.139\neoforge-21.1.139-universal.jar]], reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "amendments-1.21-1.2.24-neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "artifacts-neoforge-12.1.5.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "athena-neoforge-1.21-4.0.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "buildersjetpackmod-3.1-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "carryon-neoforge-1.21.1-2.2.2.11.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "cherishedworlds-neoforge-10.1.0+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "chipped-neoforge-1.21.1-4.0.2.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "chunksending-1.21-2.8.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Clumps-neoforge-1.21.1-19.0.0.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "collective-1.21.1-7.94.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "connectivity-1.21.1-7.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Controlling-neoforge-1.21.1-19.0.4.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "coroutil-neoforge-1.21.0-1.3.8.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "corpse-neoforge-1.21.1-1.1.5.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "create-1.21.1-6.0.4.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "create-dragons-plus-1.3.5.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "create-enchantment-industry-2.0.12.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "create_oxidized-0.1.3.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "create_things_and_misc-4.0-neoforge-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "createaddition-1.4.2.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "cupboard-1.21-2.9.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "curios-neoforge-9.3.1+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "displaythat-1.21.1-1.0.0.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "emi-1.1.20+1.21.1+neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "emi_enchanting-0.1.2+1.21+neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "emi_loot-0.7.5+1.21+neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Emojiful-Neoforge-1.21-5.2.0-all.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "ferritecore-7.0.2-neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "freecam-neoforge-1.3.0+mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "ftb-library-neoforge-2101.1.12.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "ftb-ultimine-neoforge-2101.1.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "fusion-1.2.7b-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "fzzy_config-0.6.6+1.21+neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "gjeb-neoforge-1.21.1-1.3.0.38.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "gpumemleakfix-1.21-1.8.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Highlighter-1.21-neoforge-1.1.11.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Iceberg-1.21.1-neoforge-1.3.2.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "inventorysorter-1.21-24.0.20.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "iris-neoforge-1.8.8+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Jade-1.21.1-NeoForge-15.9.2.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "JadeAddons-1.21.1-NeoForge-6.0.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "jei-1.21.1-neoforge-19.21.0.247.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found library file "kotlinforforge-5.7.0-all.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "modernfix-neoforge-5.20.2+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "moonlight-1.21-2.18.12-neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "MouseTweaks-neoforge-mc1.21-2.26.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "ok_zoomer-neo-10.0.0-beta.8.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "packetfixer-neoforge-2.1.0-1.21-to-1.21.3.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "polymorph-neoforge-1.0.7+1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "quickrightclick-1.21.1-1.6.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "rechiseled-1.1.6a-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "rechiseled_chipped-1.3-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "rechiseledcreate-1.0.2-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "resourcefullib-neoforge-1.21-3.0.12.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Searchables-neoforge-1.21.1-1.0.2.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "skinlayers3d-neoforge-1.7.4-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "smoothchunk-1.21-4.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "sodium-extra-neoforge-0.6.0+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "sodium-neoforge-0.6.9+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "sophisticatedbackpacks-1.21.1-3.24.9.1228.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "sophisticatedcore-1.21.1-1.3.27.951.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "supplementaries-1.21-3.1.7-neoforge.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "txnilib-neoforge-1.0.23-1.21.1.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "voicechat-neoforge-1.21.1-2.5.26.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "watut-neoforge-1.21.0-1.2.3.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "Xaeros_Minimap_25.1.0_NeoForge_1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:35] [main/INFO]: Found mod file "XaerosWorldMap_1.39.4_NeoForge_1.21.jar" [locator: {mods folder locator at C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\mods}, reader: mod manifest]
+[23:03:37] [main/INFO]: Found 74 dependencies adding them to mods collection
+[23:03:37] [main/INFO]: Found mod file "fabric-transfer-api-v1-5.4.1+628bf5e919.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kfflang-5.7.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-renderer-api-v1-3.4.0+acb05a3919.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "Ponder-NeoForge-1.21.1-1.0.46.jar" [parent: create-1.21.1-6.0.4.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-item-api-v1-11.1.1+57cdfa8219.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "neoforge-coremods-21.1.139.jar" [parent: neoforge-21.1.139-universal.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-model-loading-api-v1-2.0.0+986ae77219.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-rendering-fluids-v1-3.1.6+857185bc19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-screen-handler-api-v1-1.3.87+8dbc56dd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-resource-loader-v0-1.3.1+4ea8954419.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-rendering-v1-5.0.5+077ba95f19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-renderer-indigo-1.7.0+acb05a3919.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-convention-tags-v1-2.1.1+7f945d5b19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kotlinx-coroutines-core-jvm-1.9.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-command-api-v2-2.2.28+36d727be19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-convention-tags-v2-2.9.1+231468e519.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "yabn-1.0.3.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-data-attachment-api-v1-1.2.0+7330bc1b19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "net.caffeinemc.sodium-neoforge-0.6.9+mc1.21.1-service.jar" [parent: sodium-neoforge-0.6.9+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kotlinx-coroutines-jdk8-1.9.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found gamelibrary file "kfflib-5.7.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kotlin-stdlib-jdk7-2.1.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-screen-api-v1-2.0.25+b282c4bb19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kotlin-stdlib-jdk8-2.1.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found library file "yamlbeans-1.17.jar" [parent: Emojiful-Neoforge-1.21-5.2.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-particles-v1-4.0.2+824f924c19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "cloth-config-neoforge-15.0.128-neoforge.jar" [parent: freecam-neoforge-1.3.0+mc1.21.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "forgified-fabric-loader-2.5.29+0.16.0+1.21-full.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar" [parent: txnilib-neoforge-1.0.23-1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "bytecodecs-1.1.2.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found library file "kotlinx-serialization-json-jvm-1.7.3.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-content-registries-v0-8.0.17+0a0c14ff19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-transitive-access-wideners-v1-6.1.0+0df3143b19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "jankson-1.2.3.jar" [parent: fzzy_config-0.6.6+1.21+neoforge.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.1.139-universal.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-game-rule-api-v1-1.0.53+36d727be19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-api-lookup-api-v1-1.6.69+c21168c319.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-blockrenderlayer-v1-1.1.52+b089b4bd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found gamelibrary file "mixinsquared-neoforge-0.2.0.jar" [parent: sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found gamelibrary file "Registrate-MC1.21-1.3.0+62.jar" [parent: create-1.21.1-6.0.4.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-block-api-v1-1.0.22+a6e994cd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-resource-conditions-api-v1-4.3.0+edeecbd819.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "wrench_wrapper-0.6.1.jar" [parent: ok_zoomer-neo-10.0.0-beta.8.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "kffmod-5.7.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kotlin-reflect-2.1.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found library file "kotlin-stdlib-2.1.0.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "flywheel-neoforge-1.21.1-1.0.2.jar" [parent: create-1.21.1-6.0.4.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-item-group-api-v1-4.1.6+e324903319.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-gametest-api-v1-2.0.5+29f188ce19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-biome-api-v1-13.0.30+1e62d33c19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "tomlkt-jvm-0.3.7.jar" [parent: fzzy_config-0.6.6+1.21+neoforge.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-entity-events-v1-1.7.0+1af6e62419.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-registry-sync-v0-5.1.3+0c9b5b5419.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-recipe-api-v1-5.0.13+59440bcc19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-object-builder-api-v1-15.2.1+cc242efd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found gamelibrary file "mixinsquared-forge-0.1.1.jar" [parent: supplementaries-1.21-3.1.7-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-loot-api-v2-3.0.15+a3ee712d19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "MixinSquared-0.2.0-beta.6.jar" [parent: mixinsquared-neoforge-0.2.0.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-loot-api-v3-1.0.3+333dfad919.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.6.9+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found library file "kotlinx-serialization-core-jvm-1.7.3.jar" [parent: kotlinforforge-5.7.0-all.jar, locator: jarinjar]
+[23:03:37] [main/INFO]: Found mod file "fabric-networking-api-v1-4.3.0+0d25d43e19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-sound-api-v1-1.0.23+10b84f8419.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-message-api-v1-6.0.13+e053909619.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "expandability-neoforge-12.0.0.jar" [parent: artifacts-neoforge-12.1.5.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-lifecycle-events-v1-2.4.0+36b6b86a19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-data-generation-api-v1-20.2.22+2d91a6db19.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-events-interaction-v0-0.7.13+7b71cc1619.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-key-binding-api-v1-1.0.47+62cc7ce119.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: Found mod file "fabric-client-tags-api-v1-1.1.15+e053909619.jar" [parent: forgified-fabric-api-0.107.0+2.0.25+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[23:03:37] [main/INFO]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		3d-Skin-Layers 1.7.4 (skinlayers3d)
+		Amendments 1.21-1.2.24 (amendments)
+		Architectury 13.0.8 (architectury)
+		Artifacts 12.1.5 (artifacts)
+		Athena 4.0.1 (athena)
+		Builder's Jetpack Mod 3.1-1.21.1 (buildersjetpackmod)
+		Carry On 2.2.2 (carryon)
+		Cherished Worlds 10.1.0+1.21.1 (cherishedworlds)
+		Chipped 4.0.2 (chipped)
+		chunksending mod 2.8 (chunksending)
+		Cloth Config v15 API 15.0.128 (cloth_config)
+		Clumps 19.0.0.1 (clumps)
+		Collective 7.94 (collective)
+		Connectivity Mod 7.1 (connectivity)
+		Controlling 19.0.4 (controlling)
+		CoroUtil 1.21.0-1.3.8 (coroutil)
+		Corpse 1.21.1-1.1.5 (corpse)
+		Corpse Curios Compatibility 2.2.2 (corpsecurioscompat)
+		Create 6.0.4 (create)
+		Create Crafts & Additions 0.0NONE (createaddition)
+		Create: Dragons Plus 1.3.5 (create_dragons_plus)
+		Create: Enchantment Industry 2.0.12 (create_enchantment_industry)
+		Create: Oxidized 0.1.3 (create_oxidized)
+		create: things and misc 1.0.0 (create_things_and_misc)
+		Cupboard mod 2.9 (cupboard)
+		Curios API 9.3.1+1.21.1 (curios)
+		Display That! 1.21.1-1.0.0 (displaythat)
+		EMI 1.1.20+1.21.1+neoforge (emi)
+		EMI Enchanting 0.1.2+1.21+neoforge (emi_enchanting)
+		EMI Loot 0.7.5+1.21+neoforge (emi_loot)
+		Emojiful 5.2.0 (emojiful)
+		ExpandAbility 12.0.0 (expandability)
+		Ferrite Core 7.0.2 (ferritecore)
+		Flywheel 1.0.2 (flywheel)
+		Forgified Fabric API 0.107.0+2.0.25+1.21.1 (fabric_api)
+		Forgified Fabric API Base 0.4.42+d1308ded19 (fabric_api_base)
+		Forgified Fabric API Lookup API (v1) 1.6.69+c21168c319 (fabric_api_lookup_api_v1)
+		Forgified Fabric Biome API (v1) 13.0.30+1e62d33c19 (fabric_biome_api_v1)
+		Forgified Fabric Block API (v1) 1.0.22+a6e994cd19 (fabric_block_api_v1)
+		Forgified Fabric BlockRenderLayer Registration (v1) 1.1.52+b089b4bd19 (fabric_blockrenderlayer_v1)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Client Tags 1.1.15+e053909619 (fabric_client_tags_api_v1)
+		Forgified Fabric Command API (v2) 2.2.28+36d727be19 (fabric_command_api_v2)
+		Forgified Fabric Content Registries (v0) 8.0.17+0a0c14ff19 (fabric_content_registries_v0)
+		Forgified Fabric Convention Tags 2.1.1+7f945d5b19 (fabric_convention_tags_v1)
+		Forgified Fabric Convention Tags (v2) 2.9.1+231468e519 (fabric_convention_tags_v2)
+		Forgified Fabric Data Attachment API (v1) 1.2.0+7330bc1b19 (fabric_data_attachment_api_v1)
+		Forgified Fabric Data Generation API (v1) 20.2.22+2d91a6db19 (fabric_data_generation_api_v1)
+		Forgified Fabric Entity Events (v1) 1.7.0+1af6e62419 (fabric_entity_events_v1)
+		Forgified Fabric Events Interaction (v0) 0.7.13+7b71cc1619 (fabric_events_interaction_v0)
+		Forgified Fabric Game Rule API (v1) 1.0.53+36d727be19 (fabric_game_rule_api_v1)
+		Forgified Fabric Game Test API (v1) 2.0.5+29f188ce19 (fabric_gametest_api_v1)
+		Forgified Fabric Item API (v1) 11.1.1+57cdfa8219 (fabric_item_api_v1)
+		Forgified Fabric Item Group API (v1) 4.1.6+e324903319 (fabric_item_group_api_v1)
+		Forgified Fabric Key Binding API (v1) 1.0.47+62cc7ce119 (fabric_key_binding_api_v1)
+		Forgified Fabric Lifecycle Events (v1) 2.4.0+36b6b86a19 (fabric_lifecycle_events_v1)
+		Forgified Fabric Loot API (v2) 3.0.15+a3ee712d19 (fabric_loot_api_v2)
+		Forgified Fabric Loot API (v3) 1.0.3+333dfad919 (fabric_loot_api_v3)
+		Forgified Fabric Message API (v1) 6.0.13+e053909619 (fabric_message_api_v1)
+		Forgified Fabric Model Loading API (v1) 2.0.0+986ae77219 (fabric_model_loading_api_v1)
+		Forgified Fabric Networking API (v1) 4.3.0+0d25d43e19 (fabric_networking_api_v1)
+		Forgified Fabric Object Builder API (v1) 15.2.1+cc242efd19 (fabric_object_builder_api_v1)
+		Forgified Fabric Particles (v1) 4.0.2+824f924c19 (fabric_particles_v1)
+		Forgified Fabric Recipe API (v1) 5.0.13+59440bcc19 (fabric_recipe_api_v1)
+		Forgified Fabric Registry Sync (v0) 5.1.3+0c9b5b5419 (fabric_registry_sync_v0)
+		Forgified Fabric Renderer - Indigo 1.7.0+acb05a3919 (fabric_renderer_indigo)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering (v1) 5.0.5+077ba95f19 (fabric_rendering_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Forgified Fabric Rendering Fluids (v1) 3.1.6+857185bc19 (fabric_rendering_fluids_v1)
+		Forgified Fabric Resource Conditions API (v1) 4.3.0+edeecbd819 (fabric_resource_conditions_api_v1)
+		Forgified Fabric Resource Loader (v0) 1.3.1+4ea8954419 (fabric_resource_loader_v0)
+		Forgified Fabric Screen API (v1) 2.0.25+b282c4bb19 (fabric_screen_api_v1)
+		Forgified Fabric Screen Handler API (v1) 1.3.87+8dbc56dd19 (fabric_screen_handler_api_v1)
+		Forgified Fabric Sound API (v1) 1.0.23+10b84f8419 (fabric_sound_api_v1)
+		Forgified Fabric Transfer API (v1) 5.4.1+628bf5e919 (fabric_transfer_api_v1)
+		Forgified Fabric Transitive Access Wideners (v1) 6.1.0+0df3143b19 (fabric_transitive_access_wideners_v1)
+		Freecam 1.3.0+mc1.21 (freecam)
+		FTB Library 2101.1.12 (ftblibrary)
+		FTB Ultimine 2101.1.1 (ftbultimine)
+		Fusion 1.2.7+b (fusion)
+		Fzzy Config 0.6.6+1.21+neoforge (fzzy_config)
+		GJEB (GammaJustExtremeBright) 1.3.0.38 (gjeb)
+		Gpu memory leak fix 1.8 (gpumemleakfix)
+		Highlighter 1.1.11 (highlighter)
+		Iceberg 1.3.2 (iceberg)
+		Iris 1.8.8+mc1.21.1 (iris)
+		Jade 15.9.2+neoforge (jade)
+		Jade Addons 0.0NONE (jadeaddons)
+		Just Enough Items 19.21.0.247 (jei)
+		Kotlin For Forge 5.7.0 (kotlinforforge)
+		Minecraft 1.21.1 (minecraft)
+		ModernFix 5.20.2+mc1.21.1 (modernfix)
+		Moonlight Lib 1.21-2.18.12 (moonlight)
+		Mouse Tweaks 2.26.1 (mousetweaks)
+		NeoForge 21.1.139 (neoforge)
+		Ok Zoomer 10.0.0-beta.8 (ok_zoomer)
+		Packet Fixer 2.1.0 (packetfixer)
+		Polymorph 1.0.7+1.21.1 (polymorph)
+		Ponder 1.0.46 (ponder)
+		Quick Right-Click 1.6 (quickrightclick)
+		Rechiseled 1.1.6+a (rechiseled)
+		Rechiseled: Chipped 1.3 (rechiseled_chipped)
+		Rechiseled: Create 1.0.2 (rechiseledcreate)
+		Reese's Sodium Options 1.8.3+mc1.21.4 (reeses_sodium_options)
+		Resourceful Lib 3.0.12 (resourcefullib)
+		Searchables 1.0.2 (searchables)
+		Simple Inventory Sorter 24.0.20 (inventorysorter)
+		Simple Voice Chat 1.21.1-2.5.26 (voicechat)
+		Smoothchunk mod 4.1 (smoothchunk)
+		Sodium 0.6.9+mc1.21.1 (sodium)
+		Sodium Dynamic Lights 1.0.9 (sodiumdynamiclights)
+		Sodium Extra 0.6.0+mc1.21.1 (sodium_extra)
+		Sodium Options API 1.0.10 (sodiumoptionsapi)
+		Sophisticated Backpacks 3.24.9 (sophisticatedbackpacks)
+		Sophisticated Core 1.3.27 (sophisticatedcore)
+		SuperMartijn642's Config Library 1.1.8 (supermartijn642configlib)
+		SuperMartijn642's Core Lib 1.1.18+a (supermartijn642corelib)
+		Supplementaries 1.21-3.1.7 (supplementaries)
+		TxniLib 1.0.23 (txnilib)
+		What Are They Up To 1.21.0-1.2.3 (watut)
+		Wrench Wrapper 0.6.1 (wrench_wrapper)
+		Xaero's Minimap 25.1.0 (xaerominimap)
+		Xaero's World Map 1.39.4 (xaeroworldmap)
+[23:03:38] [main/INFO]: Loading coremod script-engine for [xaeroworldmap, xaerominimap]
+[23:03:41] [main/INFO]: Compatibility level set to JAVA_21
+[23:03:42] [main/INFO]: Propagating FML mod list to Fabric Loader
+[23:03:42] [main/INFO]: Launching target 'forgeclient' with arguments [--version, neoforge-21.1.139, --gameDir, C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP, --assetsDir, C:\Users\Kajus\curseforge\minecraft\Install\assets, --uuid, 7ffefe1015ac4aaa813c68ef6d4f0a85, --username, KajusLion, --assetIndex, 17, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, YjNjMDUxMDAtNzY5ZS00NGRiLTk0ZGQtM2U1YzUzYmQ1MGYx, --xuid, 2535453682157591, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Kajus\curseforge\minecraft\Install\quickPlay\java\1745697808782.json]
+[23:03:42] [main/INFO]: Loaded configuration file for Sodium Extra: 36 options available, 0 override(s) found
+[23:03:42] [main/WARN]: Reference map 'sodium-extra.refmap.json' for sodium-extra.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'connectivity.refmap.json' for connectivity.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'gpumemleakfix.refmap.json' for gpumemleakfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'controlling.refmap.json' for controlling.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'controlling.refmap.json' for controlling.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.21.1: 69 options available, 0 override(s) found
+[23:03:42] [main/INFO]: Applying Nashorn fix
+[23:03:42] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'carryon.refmap.json' for carryon.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'emojiful.refmap.json' for emojiful.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'reeses-sodium-options.refmap.json' for reeses-sodium-options.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'searchables.refmap.json' for searchables.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'rechiseled_chipped.refmap.json' for rechiseled_chipped.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[23:03:42] [main/WARN]: Reference map 'skinlayers3d.refmap.mixins.json' for skinlayers3d.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'smoothchunk.refmap.json' for smoothchunk.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'ponder.refmap.json' for ponder.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'create.refmap.json' for create.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'create_dragons_plus.refmap.json' for create_dragons_plus.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'watut.refmap.json' for watut.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.predicates.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.fastmap.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.mrl.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupmultipart.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.blockstatecache.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupbakedquad.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.threaddetec.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.modelsides.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.accessors.mixin.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'chunksending.refmap.json' for chunksending.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:42] [main/WARN]: Reference map 'create_enchantment_industry.refmap.json' for create_enchantment_industry.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:03:44] [main/WARN]: Error loading class: com/portingdeadmods/cable_facades/events/GameClientEvents$2 (java.lang.ClassNotFoundException: com.portingdeadmods.cable_facades.events.GameClientEvents$2)
+[23:03:44] [main/WARN]: Error loading class: com/direwolf20/justdirethings/client/renderers/OurRenderTypes (java.lang.ClassNotFoundException: com.direwolf20.justdirethings.client.renderers.OurRenderTypes)
+[23:03:44] [main/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[23:03:44] [main/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[23:03:44] [main/WARN]: Error loading class: mekanism/client/render/lib/effect/BillboardingEffectRenderer (java.lang.ClassNotFoundException: mekanism.client.render.lib.effect.BillboardingEffectRenderer)
+[23:03:44] [main/WARN]: Error loading class: blusunrize/immersiveengineering/client/utils/IEGLShaders (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.client.utils.IEGLShaders)
+[23:03:44] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[23:03:44] [main/WARN]: Error loading class: org/embeddedt/embeddium/impl/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.render.chunk.compile.pipeline.FluidRenderer)
+[23:03:44] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/map_atlas_generation/MapAtlasTexture (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.map_atlas_generation.MapAtlasTexture)
+[23:03:44] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[23:03:44] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[23:03:44] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[23:03:45] [main/WARN]: Error loading class: vectorwing/farmersdelight/client/renderer/HangingCanvasSignRenderer (java.lang.ClassNotFoundException: vectorwing.farmersdelight.client.renderer.HangingCanvasSignRenderer)
+[23:03:45] [main/WARN]: Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.ClassNotFoundException: vectorwing.farmersdelight.client.renderer.CanvasSignRenderer)
+[23:03:45] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:03:45] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:03:45] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[23:03:45] [main/WARN]: Error loading class: traben/entity_model_features/models/parts/EMFModelPart (java.lang.ClassNotFoundException: traben.entity_model_features.models.parts.EMFModelPart)
+[23:03:45] [main/WARN]: Error loading class: journeymap/client/render/map/MapRenderer (java.lang.ClassNotFoundException: journeymap.client.render.map.MapRenderer)
+[23:03:45] [main/WARN]: @Mixin target journeymap.client.render.map.MapRenderer was not found create.mixins.json:compat.journeymap.MapRendererAccessor from mod create
+[23:03:45] [main/WARN]: Error loading class: journeymap/client/ui/fullscreen/Fullscreen (java.lang.ClassNotFoundException: journeymap.client.ui.fullscreen.Fullscreen)
+[23:03:45] [main/WARN]: @Mixin target journeymap.client.ui.fullscreen.Fullscreen was not found create.mixins.json:compat.journeymap.JourneyFullscreenMapMixin from mod create
+[23:03:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[23:03:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[23:03:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[23:03:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[23:03:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[23:03:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[23:03:46] [main/WARN]: Error loading class: org/embeddedt/embeddium/impl/gui/EmbeddiumGameOptionPages (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.gui.EmbeddiumGameOptionPages)
+[23:03:46] [main/WARN]: Error loading class: org/embeddedt/embeddium/impl/gui/EmbeddiumGameOptionPages (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.gui.EmbeddiumGameOptionPages)
+[23:03:46] [main/WARN]: Error loading class: org/embeddedt/embeddium/impl/gui/EmbeddiumGameOptionPages (java.lang.ClassNotFoundException: org.embeddedt.embeddium.impl.gui.EmbeddiumGameOptionPages)
+[23:03:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[26Apr2025 23:03:50.541] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 815 milliseconds
+[26Apr2025 23:03:50.682] [pool-15-thread-1/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (21.82 s after launch)
+[26Apr2025 23:03:53.316] [pool-15-thread-1/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method getTemperature in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[26Apr2025 23:03:58.554] [pool-15-thread-1/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 7869 milliseconds
+[26Apr2025 23:03:59.432] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Kajus/curseforge/minecraft/Install/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar%23254!/assets/.mcassetsroot' uses unexpected schema
+[26Apr2025 23:03:59.433] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Kajus/curseforge/minecraft/Install/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar%23254!/data/.mcassetsroot' uses unexpected schema
+[26Apr2025 23:03:59.484] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[26Apr2025 23:03:59.507] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: KajusLion
+[26Apr2025 23:04:00.022] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[26Apr2025 23:04:00.359] [Render thread/INFO] [com.mojang.blaze3d.platform.Window/]: OpenGL Vendor: NVIDIA Corporation
+[26Apr2025 23:04:00.360] [Render thread/INFO] [com.mojang.blaze3d.platform.Window/]: OpenGL Renderer: NVIDIA GeForce RTX 2070/PCIe/SSE2
+[26Apr2025 23:04:00.360] [Render thread/INFO] [com.mojang.blaze3d.platform.Window/]: OpenGL Version: 4.6.0 NVIDIA 560.94
+[26Apr2025 23:04:00.373] [Render thread/INFO] [Sodium-NvidiaWorkarounds/]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[26Apr2025 23:04:00.849] [Render thread/INFO] [Iris/]: Debug functionality is disabled.
+[26Apr2025 23:04:00.860] [Render thread/INFO] [Iris/]: OpenGL 4.5 detected, enabling DSA.
+[26Apr2025 23:04:00.898] [ForkJoinPool.commonPool-worker-11/WARN] [Iris/]: [Iris Update Check] This version doesn't have an update index, skipping.
+[26Apr2025 23:04:00.949] [Render thread/INFO] [Iris/]: Shaders are disabled because no valid shaderpack is selected
+[26Apr2025 23:04:01.691] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.139, for MC 1.21.1
+[26Apr2025 23:04:01.899] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
+[26Apr2025 23:04:02.195] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping connectivity.mixins.json:ClientBoundCustomPayloadPacketLMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1, already redirected by packetfixer.common.mixins.json:ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::newSize$1(I)I with priority 1000
+[26Apr2025 23:04:02.196] [modloading-worker-0/WARN] [mixin/]: @ModifyConstant conflict. Skipping connectivity.mixins.json:ClientBoundCustomPayloadPacketLMixin from mod connectivity->@ModifyConstant::modifyLimit2(I)I with priority 1, already redirected by packetfixer.common.mixins.json:ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::newSize$2(I)I with priority 1000
+[26Apr2025 23:04:02.212] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[26Apr2025 23:04:02.375] [modloading-worker-0/INFO] [net.fabricmc.fabric.impl.client.indigo.Indigo/]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[26Apr2025 23:04:02.725] [modloading-worker-0/WARN] [supermartijn642corelib/]: Mod 'Chipped' is requesting registration helper for different modid 'rechiseled_chipped'!
+[26Apr2025 23:04:03.197] [modloading-worker-0/INFO] [Ok Zoomer/]: [Ok Zoomer] ÇwÇ what's this
+[26Apr2025 23:04:03.306] [modloading-worker-0/INFO] [com.leclowndu93150.corpsecurioscompat.Main/]: Hello from Corpse Curios Compat!
+[26Apr2025 23:04:03.318] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[26Apr2025 23:04:03.362] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 16.16 ms
+[26Apr2025 23:04:04.179] [modloading-worker-0/INFO] [coroutil/]: neo forge loader environment detected
+[26Apr2025 23:04:04.256] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[26Apr2025 23:04:04.259] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26Apr2025 23:04:04.551] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 8d3eda53e4de913a966c9daf050e3fb893b5d638
+[26Apr2025 23:04:04.854] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[26Apr2025 23:04:05.077] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config fzzy_config:keybinds in 2856ms
+[26Apr2025 23:04:05.367] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config :emi_loot_config in 225ms
+[26Apr2025 23:04:09.047] [modloading-sync-worker/INFO] [Moonlight/]: Initialized block sets in 69ms
+[26Apr2025 23:04:10.305] [modloading-sync-worker/WARN] [net.neoforged.fml.config.ConfigTracker/]: Opening a config that was already loaded with value LoadedConfig[config=SynchronizedConfig{DataHolder:{blocks=SynchronizedConfig{DataHolder:{globe=SynchronizedConfig{DataHolder:{random_world=true, show_coordinates=true}}, notice_board=SynchronizedConfig{DataHolder:{centered_text=true}}, bunting=SynchronizedConfig{DataHolder:{fast_buntings=false}}, clock_block=SynchronizedConfig{DataHolder:{24h_format=true}}, pedestal=SynchronizedConfig{DataHolder:{spin=true, speed=2.0, fancy_renderers=true}}, bubble_block=SynchronizedConfig{DataHolder:{wobble=0.2, grow_speed=0.4}}, item_shelf=SynchronizedConfig{DataHolder:{supported_blocks=true}}, wind_vane=SynchronizedConfig{DataHolder:{power_scaling=3.0, max_angle_1=30.0, max_angle_2=10.0, period_1=450.0, period_2=150.0}}, flag=SynchronizedConfig{DataHolder:{slowness=100, wavyness=4.0, intensity=1.0, intensity_increment=0.3, fanciness=FABULOUS, render_as_banner=false}}, captured_mobs=SynchronizedConfig{DataHolder:{tickable_inside_jars=[iceandfire:pixie, druidcraft:dreadfish, druidcraft:lunar_moth, alexsmobs:hummingbird]}}, hat_stand=SynchronizedConfig{DataHolder:{swing_physics=SynchronizedConfig{DataHolder:{min_angle=0.0, collision_force=15.0, damping=1.625, collision_inertia=1.5, collision_considers_entity_hitbox=true, frequency=1.5, max_angle=54.999996}}}}, turn_table=SynchronizedConfig{DataHolder:{turn_particles=true}}, speaker_block=SynchronizedConfig{DataHolder:{mute_narrator=false}}, rope=SynchronizedConfig{DataHolder:{wobbling_amplitude=1.2, wobbling_period=12.0}}}}, particles=SynchronizedConfig{DataHolder:{turn_particle=SynchronizedConfig{DataHolder:{initial_color=#002A77EA, fade_color=#0032BEFA}}}}, general=SynchronizedConfig{DataHolder:{no_optifine_warn_screen=false, no_amendments_screen=false, no_incompatible_mods_screen=false, config_button=false, config_button_y_offset=0, tooltip_hints=true, placeable_tooltips=true, custom_configured_screen=true, test1=0.0, test2=0.0, test3=0.0, I am very boring=false}}, tweaks=SynchronizedConfig{DataHolder:{clock_right_click=true, projectile_weapon_overlay=true, compass_right_click=false, placeable_books_glint=false, banner_pattern_tooltip=true, paintings_tooltip=true, sherds_tooltip=true, tooltip_image_size=80, mob_head_shaders=true, send_chat_on_death=true, colored_maps=SynchronizedConfig{DataHolder:{tinted_blocks_on_maps=true, tall_grass_color=true, accurate_colors=false}}}}, items=SynchronizedConfig{DataHolder:{slingshot=SynchronizedConfig{DataHolder:{overlay=true, stasis_block_outline=true, block_outline_color=#FFFFFFFF, projectile_scale=0.5}}, lunch_basket=SynchronizedConfig{DataHolder:{overlay=true}}, altimeter=SynchronizedConfig{DataHolder:{click_action=true, extra_dimension_textures=[minecraft:the_nether, minecraft:the_end], texture_precision_multiplier=1}}, cannonball=SynchronizedConfig{DataHolder:{3d_model=true}}, quiver=SynchronizedConfig{DataHolder:{armor_render_offset=-1.0, render_mode=THIGH, skeleton_render_mode=THIGH, overlay=true, mouse_movement_in_gui=true, gui_x_offset=0, gui_y_offset=0}}, wrench=SynchronizedConfig{DataHolder:{turn_particles=true}}, flute=SynchronizedConfig{DataHolder:{note_particles=true}}}}}}, path=C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\config\supplementaries-client.toml, modConfig=net.neoforged.fml.config.ModConfig@6062a94a] at path supplementaries-client.toml
+[26Apr2025 23:04:10.310] [modloading-sync-worker/WARN] [net.neoforged.fml.config.ConfigTracker/]: Opening a config that was already loaded with value LoadedConfig[config=SynchronizedConfig{DataHolder:{general=SynchronizedConfig{DataHolder:{tooltip_hints=true, custom_configured_screen=true}}, lily_pad=SynchronizedConfig{DataHolder:{y_offset=-0.016625}}, bell=SynchronizedConfig{DataHolder:{chain_attachment=true}}, brewing_stand=SynchronizedConfig{DataHolder:{brewing_stand_colors=true}}, arrows=SynchronizedConfig{DataHolder:{crossbows_colors=true}}, tripwire_hook=SynchronizedConfig{DataHolder:{fast_hooks=false}}, hanging_sign=SynchronizedConfig{DataHolder:{item_pixel_scale=10.0, swinging_signs=true, sign_attachment=true, swing_physics=SynchronizedConfig{DataHolder:{min_angle=0.7999999523162842, collision_force=15.0, damping=0.5249999761581421, collision_inertia=1.0, collision_considers_entity_hitbox=true, frequency=0.6000000238418579, max_angle=60.0}}}}, lantern=SynchronizedConfig{DataHolder:{fast_lanterns=false, lantern_item_size=0.625, lantern_item_holding=true, lantern_item_holding_up=false, swing_physics=SynchronizedConfig{DataHolder:{min_angle=0.7999999523162842, collision_force=15.0, damping=0.5249999761581421, collision_inertia=1.0, collision_considers_entity_hitbox=true, frequency=0.6000000238418579, max_angle=60.0}}}}, cauldron=SynchronizedConfig{DataHolder:{potion_texture=true}}, jukebox=SynchronizedConfig{DataHolder:{new_model=true, disc_spin=true}}, misc=SynchronizedConfig{DataHolder:{torch_item_holding=true, torch_item_size=1.0, candle_holder_item_holding=true, handle_holder_item_size=0.625, fixed_holding_animations=false, sign_text_color_multiplier=1.2, campfire_smoke_through_blocks=false}}}}, path=C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\config\amendments-client.toml, modConfig=net.neoforged.fml.config.ModConfig@68326554] at path amendments-client.toml
+[26Apr2025 23:04:10.312] [modloading-sync-worker/WARN] [net.neoforged.fml.config.ConfigTracker/]: Opening a config that was already loaded with value LoadedConfig[config=SynchronizedConfig{DataHolder:{general=SynchronizedConfig{DataHolder:{merge_dynamic_packs=true, lazy_map_upload=true, maps_mipmap=3, consistent_entity_renderer_shading=NO_GUI}}}}, path=C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\config\moonlight-client.toml, modConfig=net.neoforged.fml.config.ModConfig@42feeaf4] at path moonlight-client.toml
+[26Apr2025 23:04:10.330] [modloading-sync-worker/WARN] [net.neoforged.fml.config.ConfigTracker/]: Opening a config that was already loaded with value LoadedConfig[config=SynchronizedConfig{DataHolder:{redstone=SynchronizedConfig{DataHolder:{wind_vane=true, clock_block=true, redstone_illuminator=true, crank=true, cog_block=true, gold_door=true, gold_trapdoor=true, lock_block=true, relayer=true, speaker_block=SynchronizedConfig{DataHolder:{enabled=true, narrator_enabled=true, max_text=32, range=64}}, bellows=SynchronizedConfig{DataHolder:{enabled=true, base_period=78, power_scaling=2.0, base_velocity_scaling=5.0, range=5}}, spring_launcher=SynchronizedConfig{DataHolder:{enabled=true, velocity=1.5, fall_height_required=5}}, enderman_head=SynchronizedConfig{DataHolder:{enabled=true, drop_head=true, ticks_to_increase_power=15, work_from_any_side=false}}, turn_table=SynchronizedConfig{DataHolder:{enabled=true, rotate_entities=true, shuffle_containers=true}}, pulley_block=SynchronizedConfig{DataHolder:{enabled=true, mineshaft_elevator=0.035}}, dispenser_minecart=SynchronizedConfig{DataHolder:{enabled=true, adjust_projectile_angle=true}}, faucet=SynchronizedConfig{DataHolder:{enabled=true, spill_items=true, fill_entities_below=false}}, crystal_display=SynchronizedConfig{DataHolder:{enabled=true, chaining=true}}}}, functional=SynchronizedConfig{DataHolder:{fodder=true, hourglass=true, rope=SynchronizedConfig{DataHolder:{block_side_attachment=true, slide_on_fall=true, rope_override=supplementaries:rope, horizontal_ropes=true, replace_in_loot_tables=NONE}}, jar=SynchronizedConfig{DataHolder:{enabled=true, capacity=12, drink_from_jar=false, drink_from_jar_item=false, jar_auto_detect=false, jar_capture=true, jar_cookies=true, jar_liquids=true}}, cage=SynchronizedConfig{DataHolder:{enabled=true, allow_all_mobs=false, cage_allow_all_babies=false, cage_auto_detect=false, persistent_mobs=false, health_threshold=100, require_taming=true}}, safe=SynchronizedConfig{DataHolder:{enabled=true, prevent_breaking=false, simple_safes=false}}, sack=SynchronizedConfig{DataHolder:{enabled=true, sack_penalty=true, sack_increment=2, slots=9}}, bamboo_spikes=SynchronizedConfig{DataHolder:{enabled=true, tipped_spikes=true, player_loot=false, only_allow_harmful_effects=true, populate_creative_tab=true}}, urn=SynchronizedConfig{DataHolder:{enabled=true, critter_spawn_chance=0.01, cave_urns=true}}, soap=SynchronizedConfig{DataHolder:{enabled=true, clean_blacklist=[minecraft:glazed_terracotta, botania:mystical_flower, mna:chimerite_crystal, botania:floating_flower, ,minecraft:mushroom, botania:mushroom, botania:tall_mystical_flower, botania:petal_block, morered:network_cable, xycraft_world:glowing_shiny_aurey_block, xycraft_world:shiny_aurey_block, xycraft_world:rgb_lamp, xycraft_world:glowing_rgb_viewer, xycraft_world:glowing_matte_rgb_block, xycraft_world:rgb_lamp_pole], special_blocks=SynchronizedConfig{DataHolder:{quark:dirty_glass=minecraft:glass, minecraft:sticky_piston=minecraft:piston, #alexscaves:cave_paintings=alexscaves:smooth_limestone, quark:dirty_glass_pane=minecraft:glass_pane}}}}, cannon=SynchronizedConfig{DataHolder:{enabled=true, fire_power=0.6, fuse_time=40, cooldown=60, music_disc_heave_ho=true, cannonball=SynchronizedConfig{DataHolder:{enabled=true, power_scaling=3.5, break_radius=1.1}}}}, present=SynchronizedConfig{DataHolder:{enabled=true, trapped_present=true}}, flax=SynchronizedConfig{DataHolder:{enabled=true, wild_flax=true}}, lumisene=SynchronizedConfig{DataHolder:{enabled=true, flammable_from_lumisene_block_duration=50, lumisene_bottle=SynchronizedConfig{DataHolder:{enabled=true, flammable_duration=300, glowing_duration=200}}}}}}, building=SynchronizedConfig{DataHolder:{lapis_bricks=true, deepslate_lamp=true, end_stone_lamp=true, blackstone_lamp=true, stone_lamp=true, stone_tile=true, blackstone_tile=true, bunting=true, sconce=true, sconce_lever=true, pancake=true, checker_block=true, raked_gravel=true, feather_block=true, statue=true, doormat=true, flint_block=true, fine_wood=true, candle_holder=true, fire_pit=true, wicker_fence=true, blackboard=SynchronizedConfig{DataHolder:{enabled=true, colored_blackboard=false, interaction_mode=BOTH}}, gravel_bricks=SynchronizedConfig{DataHolder:{enabled=true}}, slidy_block=SynchronizedConfig{DataHolder:{enabled=true, speed=0.125}}, timber_frame=SynchronizedConfig{DataHolder:{enabled=true, swap_on_shift=false, axes_strip=true, replace_daub=true}}, iron_gate=SynchronizedConfig{DataHolder:{enabled=true, double_opening=true, door-like_gates=false}}, item_shelf=SynchronizedConfig{DataHolder:{enabled=true, climbable_shelves=false}}, sugar_cube=SynchronizedConfig{DataHolder:{enabled=true, horse_speed_duration=10}}, planter=SynchronizedConfig{DataHolder:{enabled=true, broken_by_sapling=false, rich_soil_planter=true}}, notice_board=SynchronizedConfig{DataHolder:{enabled=true, allow_any_item=false, gui=true}}, pedestal=SynchronizedConfig{DataHolder:{enabled=true, crystal_enchanting=3.0}}, ash=SynchronizedConfig{DataHolder:{enabled=true, ash_from_fire_chance=1.0, ash_from_burning_mobs=true, rain_wash_ash=true, basalt_ash=true}}, flag=SynchronizedConfig{DataHolder:{enabled=true, stick_pole=true, pole_length=16}}, goblet=SynchronizedConfig{DataHolder:{enabled=true, allow_drinking=true}}, globe=SynchronizedConfig{DataHolder:{enabled=true, sepia_globe=true}}, way_sign=SynchronizedConfig{DataHolder:{enabled=true, road_signs=SynchronizedConfig{DataHolder:{enabled=true, show_distance_text=true}}}}, daub=SynchronizedConfig{DataHolder:{enabled=true, wattle_and_daub=true}}, ash_bricks=SynchronizedConfig{DataHolder:{enabled=true}}, hat_stand=SynchronizedConfig{DataHolder:{enabled=true, unrestricted=false}}, awning=SynchronizedConfig{DataHolder:{enabled=true, slant=true, shift_through=true, angle=69.44395478041653}}, flower_box=SynchronizedConfig{DataHolder:{enabled=true, simple_mode=true}}, netherite_doors=SynchronizedConfig{DataHolder:{door=true, trapdoor=true, unbreakable=false}}}}, tools=SynchronizedConfig{DataHolder:{candy=true, stasis=true, altimeter=true, confetti_popper=true, quiver=SynchronizedConfig{DataHolder:{enabled=true, use_without_slow=true, slots=6, quiver_skeleton_spawn_chance=0.03, only_works_in_curio=false, quiver_pickup=true}}, lunch_basket=SynchronizedConfig{DataHolder:{enabled=true, placeable=true, slots=6}}, slice_map=SynchronizedConfig{DataHolder:{enabled=true, range_multiplier=0.25}}, bubble_blower=SynchronizedConfig{DataHolder:{enabled=true, stasis_cost=5, bubble_block=SynchronizedConfig{DataHolder:{lifetime=1200, break_when_touched=true, max_charges=200}}}}, wrench=SynchronizedConfig{DataHolder:{enabled=true, bypass_when_on=MAIN_HAND}}, rope_arrow=SynchronizedConfig{DataHolder:{enabled=true, capacity=32, exclusive_to_crossbows=false}}, flute=SynchronizedConfig{DataHolder:{enabled=true, unbound_radius=64, bound_distance=64}}, bomb=SynchronizedConfig{DataHolder:{enabled=true, explosion_radius=2.0, break_blocks=WEAK, bomb_fuse=0, cooldown=true, blue_bomb=SynchronizedConfig{DataHolder:{explosion_radius=5.15, break_blocks=WEAK}}}}, slingshot=SynchronizedConfig{DataHolder:{enabled=true, range_multiplier=1.0, charge_time=20, stasis_deceleration=0.9625, unrestricted_enderman_intercept=true, allow_buckets=true, damageable_damage=0.5, allow_splash_potions=false, allow_bombs=false, allow_fire_charges=false, allow_snowballs=false, allow_enderpearls=false}}, antique_ink=SynchronizedConfig{DataHolder:{enabled=true}}}}, general=SynchronizedConfig{DataHolder:{creative_tab=false, dispensers=true, jar_tab=false, debug_save_dynamic_pack=false, sanity_checks_messages=true, red_merchant_spawn_multiplier=1.0}}, tweaks=SynchronizedConfig{DataHolder:{dragon_banner_pattern=SynchronizedConfig{DataHolder:{enabled=true}}, shulker_helmet=SynchronizedConfig{DataHolder:{enabled=true}}, golden_apple_disenchant=SynchronizedConfig{DataHolder:{enabled=true}}, traders_open_doors=SynchronizedConfig{DataHolder:{enabled=true}}, dispenser_tweaks=SynchronizedConfig{DataHolder:{axe_strip=true, shoot_ender_pearls=true, extract_from_bundles=true}}, throwable_bricks=SynchronizedConfig{DataHolder:{enabled=true}}, placeable_sticks=SynchronizedConfig{DataHolder:{sticks=true, blaze_rods=true}}, placeable_gunpowder=SynchronizedConfig{DataHolder:{enabled=true, speed=2, spread_age=2}}, raked_gravel=SynchronizedConfig{DataHolder:{enabled=true}}, bottle_xp=SynchronizedConfig{DataHolder:{enabled=false, cost=2, target_block=}}, map_tweaks=SynchronizedConfig{DataHolder:{random_adventurer_maps=true, random_adventurer_maps_select_random_structure=true, block_map_markers=true, death_marker=WITH_COMPASS, quill_adventurer_maps=true, quill_vanilla_maps=true, min_search_radius=75, tinted_blocks_on_maps=true}}, placeable_books=SynchronizedConfig{DataHolder:{enabled=true, written_books=true, mixed_books=false}}, zombie_horse=SynchronizedConfig{DataHolder:{zombie_horse_conversion=true, rotten_flesh=64, rideable_underwater=true, zombie_horse_inverse_conversion=true}}, noteblocks_scare=SynchronizedConfig{DataHolder:{enabled=true}}, bad_luck_tweaks=SynchronizedConfig{DataHolder:{cat_unluck=true, lightning_unluck=true}}, item_lore=SynchronizedConfig{DataHolder:{enabled=true}}, sus_recipes=SynchronizedConfig{DataHolder:{enabled=true}}, slimed_effect=SynchronizedConfig{DataHolder:{enabled=true, throwable_slimeballs=true, overlay=true, hinders_jump=NORMAL_DIFFICULTY, duration=300, chance_per_slime_size=0.15}}}}}}, path=C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\config\supplementaries-common.toml, modConfig=net.neoforged.fml.config.ModConfig@ce0c64d] at path supplementaries-common.toml
+[26Apr2025 23:04:10.336] [modloading-sync-worker/WARN] [net.neoforged.fml.config.ConfigTracker/]: Opening a config that was already loaded with value LoadedConfig[config=SynchronizedConfig{DataHolder:{lectern=SynchronizedConfig{DataHolder:{improved_screen=true}}, hanging_signs=SynchronizedConfig{DataHolder:{items_on_signs=true}}, cauldron=SynchronizedConfig{DataHolder:{enhanced_cauldron=true, crafting=true, dye_water=true, dye_recipes_per_layer=4, potion_recipes_per_layer=2, potions_mixing=ON, potion_mixing_limit=8, connect_to_fences=true, inverse_potions=SynchronizedConfig{DataHolder:{minecraft:mining_fatigue=minecraft:haste, minecraft:instant_health=minecraft:instant_damage, minecraft:unluck=minecraft:luck, minecraft:instant_damage=minecraft:instant_health, minecraft:weakness=minecraft:strength, minecraft:slowness=minecraft:speed, minecraft:haste=minecraft:mining_fatigue, minecraft:strength=minecraft:weakness, minecraft:speed=minecraft:slowness, minecraft:luck=minecraft:unluck}}}}, tripwire_hook=SynchronizedConfig{DataHolder:{tool_hook=true}}, carpets=SynchronizedConfig{DataHolder:{carpeted_stairs=true, carpeted_slabs=true}}, cake=SynchronizedConfig{DataHolder:{double_cake=true, directional_cake=true}}, mob_head=SynchronizedConfig{DataHolder:{skull_piles=true, skull_candles=true, multiple_candles=true}}, flower_pot=SynchronizedConfig{DataHolder:{hanging_pot=true}}, lantern=SynchronizedConfig{DataHolder:{wall_lanterns=true, high_priority=true, mod_blacklist=[bbb, extlights, betterendforge, spelunkery, galosphere, tconstruct, enigmaticlegacy, beautify], id_whitelist=[enlightened_end:xenon_lantern], falling_lanterns=ON}}, bell=SynchronizedConfig{DataHolder:{chain_ringing=true, chain_length=16}}, banners=SynchronizedConfig{DataHolder:{ceiling_banners=true}}, misc=SynchronizedConfig{DataHolder:{dye_blocks=false}}, torch=SynchronizedConfig{DataHolder:{torch_fire=true, torch_fire_offhand=false, torch_fire_duration=2}}, lily_pad=SynchronizedConfig{DataHolder:{better_lilypads=true}}}}, path=C:\Users\Kajus\curseforge\minecraft\Instances\EnderSMP\config\amendments-common.toml, modConfig=net.neoforged.fml.config.ModConfig@6c2bbc38] at path amendments-common.toml
+[26Apr2025 23:04:10.339] [modloading-sync-worker/INFO] [net.damarvinci.buildersjetpackmod.Config/]: Builder Jetpack Config loaded
+[26Apr2025 23:04:10.340] [modloading-sync-worker/INFO] [net.damarvinci.buildersjetpackmod.Config/]: Fuel Consumption Interval: 30
+[26Apr2025 23:04:10.340] [modloading-sync-worker/INFO] [net.damarvinci.buildersjetpackmod.Config/]: Sounds enabled: true
+[26Apr2025 23:04:10.340] [modloading-sync-worker/INFO] [net.damarvinci.buildersjetpackmod.Config/]: Particles enabled: true
+[26Apr2025 23:04:10.631] [Render thread/INFO] [Sodium/]: Block minecraft:water_cauldron had its color provider replaced with net.mehvahdjukaar.amendments.AmendmentsClient$$Lambda/0x0000000801d3dd00@285cf30a and will not use per-vertex coloring
+[26Apr2025 23:04:11.071] [Render thread/INFO] [net.damarvinci.buildersjetpackmod.BuildersJetpackMod/]: registering particle provider
+[26Apr2025 23:04:11.146] [Render thread/INFO] [Iris/]: Hardware information:
+[26Apr2025 23:04:11.147] [Render thread/INFO] [Iris/]: CPU: 12x AMD Ryzen 5 2600 Six-Core Processor 
+[26Apr2025 23:04:11.149] [Render thread/INFO] [Iris/]: GPU: NVIDIA GeForce RTX 2070/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 560.94)
+[26Apr2025 23:04:11.149] [Render thread/INFO] [Iris/]: OS: Windows 11 (10.0)
+[26Apr2025 23:04:12.447] [Render thread/INFO] [ModernFix/]: Invalidating pack caches
+[26Apr2025 23:04:12.449] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, fabric, mod_resources, mod/sodium, mod/fabric_renderer_api_v1, mod/supermartijn642configlib, mod/sodium_extra, mod/fabric_item_api_v1, mod/fabric_rendering_fluids_v1, mod/connectivity, mod/sophisticatedcore, mod/gpumemleakfix, mod/fabric_convention_tags_v1, mod/xaeroworldmap, mod/controlling, mod/neoforge, mod/modernfix, mod/fabric_command_api_v2, mod/fabric_convention_tags_v2, mod/fabric_block_view_api_v2, mod/fabric_data_attachment_api_v1, mod/iris, mod/quickrightclick, mod/sophisticatedbackpacks, mod/fabric_screen_api_v1, mod/carryon, mod/sodiumoptionsapi, mod/cloth_config, mod/fzzy_config, mod/fabric_api, mod/fabric_content_registries_v0, mod/supplementaries, mod/emojiful, mod/sodiumdynamiclights, mod/ok_zoomer, mod/athena, mod/create_oxidized, mod/corpse, mod/chipped, mod/fabric_game_rule_api_v1, mod/fabric_api_lookup_api_v1, mod/supermartijn642corelib, mod/displaythat, mod/reeses_sodium_options, mod/curios, mod/collective, mod/searchables, mod/ftbultimine, mod/fabric_entity_events_v1, mod/resourcefullib, mod/architectury, mod/fabric_loot_api_v2, mod/cupboard, mod/cherishedworlds, mod/fabric_loot_api_v3, mod/fabric_rendering_data_attachment_v1, mod/fabric_networking_api_v1, mod/jadeaddons, mod/fabric_lifecycle_events_v1, mod/fabric_key_binding_api_v1, mod/fabric_client_tags_api_v1, mod/fabric_transfer_api_v1, mod/inventorysorter, mod/ftblibrary, mod/rechiseled, mod/rechiseled_chipped, mod/amendments, mod/fabric_model_loading_api_v1, mod/jei, mod/fabric_screen_handler_api_v1, mod/fabric_resource_loader_v0, mod/fabric_rendering_v1, mod/fabric_renderer_indigo, mod/clumps, mod/artifacts, mod/rechiseledcreate, mod/buildersjetpackmod, mod/corpsecurioscompat, mod/fusion, mod/txnilib, mod/fabric_particles_v1, mod/skinlayers3d, mod/fabric_transitive_access_wideners_v1, mod/smoothchunk, mod/emi, mod/emi_loot, mod/create_things_and_misc, mod/voicechat, mod/moonlight, mod/fabric_api_base, mod/mousetweaks, mod/fabric_blockrenderlayer_v1, mod/jade, mod/fabric_block_api_v1, mod/fabric_resource_conditions_api_v1, mod/wrench_wrapper, mod/kotlinforforge, mod/iceberg, mod/highlighter, mod/flywheel, mod/ponder, mod/create, mod/create_dragons_plus, mod/xaerominimap, mod/fabric_item_group_api_v1, mod/fabric_gametest_api_v1, mod/polymorph, mod/freecam, mod/fabric_biome_api_v1, mod/fabric_registry_sync_v0, mod/coroutil, mod/watut, mod/emi_enchanting, mod/fabric_recipe_api_v1, mod/ferritecore, mod/fabric_object_builder_api_v1, mod/gjeb, mod/fabric_sound_api_v1, mod/fabric_message_api_v1, mod/packetfixer, mod/expandability, mod/chunksending, mod/create_enchantment_industry, mod/fabric_data_generation_api_v1, mod/fabric_events_interaction_v0, mod/createaddition, moonlight:mods_dynamic_assets
+[26Apr2025 23:04:12.558] [Render thread/INFO] [Amendments/]: Generated runtime CLIENT_RESOURCES for pack moonlight:mods_dynamic_assets (Amendments) in: 91 ms
+[26Apr2025 23:04:12.558] [Render thread/INFO] [Moonlight/]: Generated runtime CLIENT_RESOURCES for pack moonlight:mods_dynamic_assets (Moonlight) in: 0 ms
+[26Apr2025 23:04:12.585] [Render thread/INFO] [Supplementaries/]: Generated runtime CLIENT_RESOURCES for pack moonlight:mods_dynamic_assets (Supplementaries) in: 27 ms
+[26Apr2025 23:04:12.598] [Worker-ResourceReload-1/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[26Apr2025 23:04:12.598] [Worker-ResourceReload-1/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[26Apr2025 23:04:12.604] [Worker-ResourceReload-7/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[26Apr2025 23:04:12.609] [Worker-ResourceReload-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[26Apr2025 23:04:12.732] [Worker-ResourceReload-3/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[26Apr2025 23:04:12.732] [Worker-ResourceReload-8/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[26Apr2025 23:04:12.741] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.21.1&ml=neoforge
+[26Apr2025 23:04:12.772] [Worker-ResourceReload-7/INFO] [voicechat/]: [voicechat] Loading plugins
+[26Apr2025 23:04:12.818] [Worker-ResourceReload-7/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[26Apr2025 23:04:12.818] [Worker-ResourceReload-7/INFO] [voicechat/]: [voicechat] Initializing plugins
+[26Apr2025 23:04:12.821] [Worker-ResourceReload-7/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[26Apr2025 23:04:13.019] [Render thread/INFO] [Supplementaries/]: Finished mod setup in: [2, 0, 5, 0, 3, 24, 9, 1] ms
+[26Apr2025 23:04:13.429] [Render thread/INFO] [Moonlight/]: Initialized color sets in 227ms
+[26Apr2025 23:04:13.620] [Worker-ResourceReload-7/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 1/2
+[26Apr2025 23:04:13.650] [Worker-ResourceReload-10/ERROR] [net.minecraft.Util/]: Invalid path in pack: create_things_and_misc:textures/item/vibration_mechanism2 copie.png, ignoring
+[26Apr2025 23:04:13.660] [Worker-ResourceReload-0/INFO] [sodiumdynamiclights/]: [LambDynLights] Initializing SodiumDynamicLights...
+[26Apr2025 23:04:13.665] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [controlling] Found status: BETA_OUTDATED Current: 19.0.4 Target: 19.0.5
+[26Apr2025 23:04:13.665] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
+[26Apr2025 23:04:13.849] [Worker-ResourceReload-5/INFO] [net.damarvinci.buildersjetpackmod.BuildersJetpackMod/]: Setting up Builders Jetpack Mod...
+[26Apr2025 23:04:13.903] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA Current: 1.21.1-1.1.5 Target: 1.21.1-1.1.5
+[26Apr2025 23:04:13.903] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Starting version check at https://api.modrinth.com/updates/BAscRYKm/forge_updates.json
+[26Apr2025 23:04:13.931] [Worker-ResourceReload-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2
+[26Apr2025 23:04:13.933] [Worker-ResourceReload-6/INFO] [voicechat/]: [voicechat] Loading Opus
+[26Apr2025 23:04:14.218] [Worker-ResourceReload-6/INFO] [voicechat/]: [voicechat] Using Cloth Config GUI
+[26Apr2025 23:04:14.218] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Found status: BETA Current: 4.0.2 Target: null
+[26Apr2025 23:04:14.219] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.1&ml=neoforge
+[26Apr2025 23:04:14.289] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[26Apr2025 23:04:14.289] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.1&ml=neoforge
+[26Apr2025 23:04:14.333] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [clumps] Found status: BETA Current: 19.0.0.1 Target: 19.0.0.1
+[26Apr2025 23:04:14.333] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/neoforge/voicechat
+[26Apr2025 23:04:14.372] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [voicechat] Found status: BETA_OUTDATED Current: 1.21.1-2.5.26 Target: 1.21.1-2.5.30
+[26Apr2025 23:04:14.373] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[26Apr2025 23:04:14.912] [Thread-6/INFO] [Emojiful/]: Loaded 1970 emojis
+[26Apr2025 23:04:15.039] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.3.2 Target: null
+[26Apr2025 23:04:15.040] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[26Apr2025 23:04:15.180] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.11 Target: null
+[26Apr2025 23:04:15.180] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gjeb] Starting version check at https://api.u-team.info/update/gjeb_neoforge.json
+[26Apr2025 23:04:15.342] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gjeb] Found status: UP_TO_DATE Current: 1.3.0.38 Target: null
+[26Apr2025 23:04:16.624] [Render thread/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2
+[26Apr2025 23:04:16.926] [Worker-ResourceReload-3/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture create_things_and_misc:block/red7 with size 12x12 limits mip level from 4 to 2
+[26Apr2025 23:04:17.129] [Worker-ResourceReload-5/ERROR] [net.minecraft.client.resources.model.ModelManager/]: Failed to load model create_things_and_misc:models/custom/blazeblock.json
+com.google.gson.JsonParseException: Invalid rotation 135.0 found, only -45/-22.5/0/22.5/45 allowed
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockElement$Deserializer.getAngle(BlockElement.java:115) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockElement$Deserializer.getRotation(BlockElement.java:104) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockElement$Deserializer.deserialize(BlockElement.java:84) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockElement$Deserializer.deserialize(BlockElement.java:76) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.1.jar%23115!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1227) ~[gson-2.10.1.jar%23115!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1329) ~[gson-2.10.1.jar%23115!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.Gson.fromJson(Gson.java:1300) ~[gson-2.10.1.jar%23115!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.1.jar%23115!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockModel$Deserializer.getElements(BlockModel.java:409) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:338) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/neoforge@21.1.139/net.neoforged.neoforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:51) ~[neoforge-21.1.139-universal.jar%23255!/:?]
+	at TRANSFORMER/neoforge@21.1.139/net.neoforged.neoforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:37) ~[neoforge-21.1.139-universal.jar%23255!/:?]
+	at MC-BOOTSTRAP/com.google.gson@2.10.1/com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.1.jar%23115!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:525) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:532) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:582) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:83) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.resources.model.ModelManager.lambda$loadBlockModels$8(ModelManager.java:144) ~[client-1.21.1-20240808.144430-srg.jar%23254!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[26Apr2025 23:04:17.745] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered player tracker system: minimap_synced
+[26Apr2025 23:04:17.749] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: World Map found!
+[26Apr2025 23:04:17.750] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: No Optifine!
+[26Apr2025 23:04:17.750] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: No Vivecraft!
+[26Apr2025 23:04:17.751] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: Iris found!
+[26Apr2025 23:04:17.751] [Render thread/WARN] [net.neoforged.fml.DeferredWorkQueue/LOADING]: Mod 'xaerominimap' took 1.127 s to run a deferred task.
+[26Apr2025 23:04:17.751] [Render thread/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 2/2
+[26Apr2025 23:04:17.760] [Render thread/INFO] [xaero.map.WorldMap/]: New world map region cache hash code: 1361826898
+[26Apr2025 23:04:17.761] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: map_synced
+[26Apr2025 23:04:17.768] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's WorldMap Mod: Xaero's minimap found!
+[26Apr2025 23:04:17.774] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: minimap_synced
+[26Apr2025 23:04:17.774] [Render thread/INFO] [xaero.map.WorldMap/]: No Optifine!
+[26Apr2025 23:04:17.774] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: No Vivecraft!
+[26Apr2025 23:04:17.775] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: Iris found!
+[26Apr2025 23:04:18.712] [Worker-ResourceReload-10/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'create_things_and_misc:custom/blazeblock' referenced from: create_things_and_misc:block/blaze_ballon: java.io.FileNotFoundException: create_things_and_misc:models/custom/blazeblock.json
+[26Apr2025 23:04:19.416] [Worker-ResourceReload-10/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'buildersjetpackmod:obj/builders_jetpack.obj' referenced from: buildersjetpackmod:obj/builders_jetpack.obj: java.io.FileNotFoundException: buildersjetpackmod:models/obj/builders_jetpack.obj.json
+[26Apr2025 23:04:19.418] [Worker-ResourceReload-10/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'supplementaries:block/books/tome' referenced from: supplementaries:block/books/tome: java.io.FileNotFoundException: supplementaries:models/block/books/tome.json
+[26Apr2025 23:04:23.863] [Worker-ResourceReload-10/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model createaddition:connector#facing=north,mode=pull,rotation=y_clockwise_90,variant=girder:
+    minecraft:textures/atlas/blocks.png:create:block/chute_block
+[26Apr2025 23:04:24.447] [Worker-ResourceReload-7/INFO] [com.mrh0.createaddition.CreateAddition/]: Create Crafts & Additions Initialized!
+[26Apr2025 23:04:24.590] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[26Apr2025 23:04:24.638] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from de.maxhenkel.corpse.integration.waila.PluginCorpse
+[26Apr2025 23:04:24.641] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.JadeAddonsBase
+[26Apr2025 23:04:24.650] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[26Apr2025 23:04:24.694] [Worker-ResourceReload-8/INFO] [PonderIndex/]: Registering Ponder Scenes took 248.8 ms
+[26Apr2025 23:04:24.707] [Worker-ResourceReload-8/INFO] [PonderIndex/]: Registering Ponder Tags took 11.58 ms
+[26Apr2025 23:04:24.724] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[26Apr2025 23:04:24.740] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[26Apr2025 23:04:24.752] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[26Apr2025 23:04:24.761] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[26Apr2025 23:04:25.333] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[26Apr2025 23:04:25.333] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[26Apr2025 23:04:25.417] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Q27G2G4 (NVIDIA High Definition Audio)
+[26Apr2025 23:04:25.418] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[26Apr2025 23:04:25.712] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[26Apr2025 23:04:25.939] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[26Apr2025 23:04:25.942] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[26Apr2025 23:04:25.945] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[26Apr2025 23:04:25.948] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[26Apr2025 23:04:25.963] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[26Apr2025 23:04:25.965] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[26Apr2025 23:04:25.966] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[26Apr2025 23:04:25.967] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[26Apr2025 23:04:26.225] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[26Apr2025 23:04:26.232] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[26Apr2025 23:04:26.234] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[26Apr2025 23:04:26.236] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/map_decorations.png-atlas
+[26Apr2025 23:04:26.237] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[26Apr2025 23:04:26.270] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[26Apr2025 23:04:26.342] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader moonlight:text_alpha_color could not find sampler named Sampler2 in the specified shader program.
+[26Apr2025 23:04:26.344] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader supplementaries:static_noise could not find sampler named Sampler1 in the specified shader program.
+[26Apr2025 23:04:26.367] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader position_tex_blur could not find uniform named ColorModulator in the specified shader program.
+[26Apr2025 23:04:26.368] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader position_tex_blur_horizontal could not find uniform named ColorModulator in the specified shader program.
+[26Apr2025 23:04:26.368] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader position_tex_blur_vertical could not find uniform named ColorModulator in the specified shader program.
+[26Apr2025 23:04:26.391] [Render thread/INFO] [xaero.map.WorldMap/]: Successfully reloaded the world map shaders!
+[26Apr2025 23:04:26.392] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[26Apr2025 23:04:26.446] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[26Apr2025 23:04:26.514] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 77 shader sources in 34.485 ms
+[26Apr2025 23:04:26.550] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 51 train hat configurations.
+[26Apr2025 23:04:26.558] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Successfully reloaded the minimap shaders!
+[26Apr2025 23:04:26.601] [Render thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
+[26Apr2025 23:04:26.601] [Render thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[26Apr2025 23:04:26.602] [Render thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[26Apr2025 23:04:26.669] [Render thread/INFO] [Iris/]: Creating pipeline for dimension minecraft:overworld
+[26Apr2025 23:04:28.833] [Render thread/WARN] [ModernFix/]: Game took 59.971 seconds to start
+[26Apr2025 23:04:31.399] [Render thread/INFO] [com.simibubi.create.Create/]: Created 324 recipes which will be injected into the game
+[26Apr2025 23:04:31.409] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[26Apr2025 23:04:31.494] [Render thread/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 23 ms
+[26Apr2025 23:04:33.271] [Worker-ResourceReload-8/INFO] [emi_loot/]: parsing loot tables
+[26Apr2025 23:04:33.665] [Worker-ResourceReload-8/INFO] [emi_loot/]: finished parsing loot tables
+[26Apr2025 23:04:34.613] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:copper_scaffolding_craft: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_things_and_misc:deleted_mod_element
+[26Apr2025 23:04:34.698] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/rose_quartz_sheet_craft: com.google.gson.JsonParseException: Failed to parse either. First: No key amount in MapLike[{"item":"create_things_and_misc:rose_quartz_sheet"}]; No key id in MapLike[{"item":"create_things_and_misc:rose_quartz_sheet"}]; Second: Failed to parse either. First: No key id in MapLike[{"item":"create_things_and_misc:rose_quartz_sheet"}]; Second: Failed to parse either. First: Not a JSON object: "create_things_and_misc:rose_quartz_sheet"; Second: Compat cannot be deserialized
+[26Apr2025 23:04:34.709] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:raboutan_sail_c_raft: com.google.gson.JsonParseException: Map entry 'W' : Failed to parse either. First: Not a json array: {"item":"nethers_exoticism:ramboutan_planks"}; Second: No key tag in MapLike[{"item":"nethers_exoticism:ramboutan_planks"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: nethers_exoticism:ramboutan_planks
+[26Apr2025 23:04:34.742] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createaddition:compat/mekanism/rose_quartz_metallurgic_infusing: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: mekanism:metallurgic_infusing
+[26Apr2025 23:04:34.752] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe supplementaries:integration/sconce_haunting: com.google.gson.JsonParseException: Failed to parse either. First: No key amount in MapLike[{"item":"supplementaries:sconce_soul"}]; No key id in MapLike[{"item":"supplementaries:sconce_soul"}]; Second: Failed to parse either. First: No key id in MapLike[{"item":"supplementaries:sconce_soul"}]; Second: Failed to parse either. First: Not a JSON object: "supplementaries:sconce_soul"; Second: Compat cannot be deserialized
+[26Apr2025 23:04:34.763] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:rose_quartz_sheet_craft: com.google.gson.JsonParseException: Failed to parse either. First: No key amount in MapLike[{"item":"create_things_and_misc:rose_quartz_sheet"}]; No key id in MapLike[{"item":"create_things_and_misc:rose_quartz_sheet"}]; Second: Failed to parse either. First: No key id in MapLike[{"item":"create_things_and_misc:rose_quartz_sheet"}]; Second: Failed to parse either. First: Not a JSON object: "create_things_and_misc:rose_quartz_sheet"; Second: Compat cannot be deserialized
+[26Apr2025 23:04:34.768] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:schematic_chair: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_things_and_misc:deleted_mod_element
+[26Apr2025 23:04:34.771] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:chorus_sail_craft: com.google.gson.JsonParseException: Map entry 'W' : Failed to parse either. First: Not a json array: {"item":"unusualend:chorus_nest_planks"}; Second: No key tag in MapLike[{"item":"unusualend:chorus_nest_planks"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: unusualend:chorus_nest_planks
+[26Apr2025 23:04:34.772] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_things_and_misc:jaboticaba_sail_craft: com.google.gson.JsonParseException: Map entry 'W' : Failed to parse either. First: Not a json array: {"item":"nethers_exoticism:jaboticaba_planks"}; Second: No key tag in MapLike[{"item":"nethers_exoticism:jaboticaba_planks"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: nethers_exoticism:jaboticaba_planks
+[26Apr2025 23:04:34.798] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3627 recipes
+[26Apr2025 23:04:35.061] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2638 advancements
+[26Apr2025 23:04:35.073] [Render thread/INFO] [Curios API/]: Loaded 11 curio slots
+[26Apr2025 23:04:35.077] [Render thread/INFO] [Curios API/]: Loaded 11 curio entities
+[26Apr2025 23:04:35.112] [Render thread/INFO] [Moonlight/]: Applied 7 data villager trades
+[26Apr2025 23:04:35.112] [Render thread/INFO] [rechiseled/]: Loaded 290 chiseling recipes
+[26Apr2025 23:04:35.117] [Render thread/INFO] [Supplementaries/]: Loaded 27 flute songs
+[26Apr2025 23:04:35.546] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.event.TagsUpdatedEvent too early, ignoring
+[26Apr2025 23:04:35.615] [Render thread/INFO] [Supplementaries/]: Registering custom dispenser behaviors
+[26Apr2025 23:04:35.682] [Render thread/INFO] [EMI/]: [EMI] Recipes synchronized, waiting for tags to reload EMI...
+[26Apr2025 23:04:35.946] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[26Apr2025 23:04:35.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Apr2025 23:04:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Apr2025 23:04:37.178] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 23:04:37.378] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[26Apr2025 23:04:37.379] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 588 ms
+[26Apr2025 23:04:37.381] [Server thread/INFO] [net.damarvinci.buildersjetpackmod.BuildersJetpackMod/]: Thanks for playing with Builders Jetpack Mod!
+[26Apr2025 23:04:39.648] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 59845
+[26Apr2025 23:04:39.802] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[26Apr2025 23:04:39.802] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[26Apr2025 23:04:41.891] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.event.TagsUpdatedEvent
+[26Apr2025 23:04:41.936] [Render thread/INFO] [EMI/]: [EMI] Recipes synchronized, waiting for tags to reload EMI...
+[26Apr2025 23:04:42.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KajusLion[local:E:72edf139] logged in with entity id 26 at (75.13119515261478, 73.19487874918394, -27.564738074023673)
+[26Apr2025 23:04:42.214] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: New Xaero hud session initialized!
+[26Apr2025 23:04:42.269] [Render thread/INFO] [xaero.map.WorldMap/]: New world map session initialized!
+[26Apr2025 23:04:42.339] [Render thread/INFO] [Iris/]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:overworld
+[26Apr2025 23:04:42.340] [Render thread/INFO] [Iris/]: Destroying pipeline minecraft:overworld
+[26Apr2025 23:04:42.340] [Render thread/INFO] [Iris/]: Creating pipeline for dimension minecraft:overworld
+[26Apr2025 23:04:42.438] [Render thread/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[26Apr2025 23:04:42.442] [Render thread/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[26Apr2025 23:04:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KajusLion joined the game
+[26Apr2025 23:04:42.462] [Render thread/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[26Apr2025 23:04:42.521] [Render thread/INFO] [ChunkBuilder/]: Started 6 worker threads
+[26Apr2025 23:04:42.617] [Render thread/INFO] [voicechat/]: [voicechat] Sending secret request to the server
+[26Apr2025 23:04:42.651] [Render thread/INFO] [flywheel/]: Started 6 worker threads
+[26Apr2025 23:04:42.683] [Render thread/INFO] [Supplementaries/]: Synced Captured Mobs settings
+[26Apr2025 23:04:42.683] [Render thread/INFO] [Supplementaries/]: Synced Globe data
+[26Apr2025 23:04:42.683] [Render thread/INFO] [Supplementaries/]: Synced Hourglass data
+[26Apr2025 23:04:42.684] [Render thread/WARN] [Moonlight/]: Overriding existing additional placement behavior for item minecraft:enchanted_book, placement AdditionalItemPlacement{placeable=Block{supplementaries:book_pile}}
+[26Apr2025 23:04:42.684] [Render thread/WARN] [Moonlight/]: Overriding existing additional placement behavior for item minecraft:written_book, placement AdditionalItemPlacement{placeable=Block{supplementaries:book_pile_horizontal}}
+[26Apr2025 23:04:42.684] [Render thread/WARN] [Moonlight/]: Overriding existing additional placement behavior for item minecraft:book, placement AdditionalItemPlacement{placeable=Block{supplementaries:book_pile_horizontal}}
+[26Apr2025 23:04:42.684] [Render thread/WARN] [Moonlight/]: Overriding existing additional placement behavior for item minecraft:writable_book, placement AdditionalItemPlacement{placeable=Block{supplementaries:book_pile_horizontal}}
+[26Apr2025 23:04:42.684] [Render thread/INFO] [Supplementaries/]: Synced Placeable Book Types
+[26Apr2025 23:04:43.092] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloading radar icon resources...
+[26Apr2025 23:04:43.100] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.common.mixins.json:ClientboundLevelChunkPacketDataMixin from mod packetfixer->@ModifyConstant::init$size(I)I with priority 1000, already redirected by connectivity.mixins.json:ClientBoundLevelChunkPacketDataLimitMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1000
+[26Apr2025 23:04:43.127] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloaded radar icon resources!
+[26Apr2025 23:04:43.181] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KajusLion (18)
+[26Apr2025 23:04:43.184] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KajusLion
+[26Apr2025 23:04:43.351] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.client.event.RecipesUpdatedEvent
+[26Apr2025 23:04:43.351] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from LISTENING to JEI_STARTED
+[26Apr2025 23:04:43.352] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[26Apr2025 23:04:43.364] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[26Apr2025 23:04:43.370] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 5.865 ms
+[26Apr2025 23:04:43.371] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[26Apr2025 23:04:43.374] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 2.577 ms
+[26Apr2025 23:04:43.375] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[26Apr2025 23:04:43.609] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Operator Utilities
+[26Apr2025 23:04:43.721] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. FTB Suite
+[26Apr2025 23:04:43.879] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 503.0 milliseconds
+[26Apr2025 23:04:43.880] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 504.1 ms
+[26Apr2025 23:04:43.881] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[26Apr2025 23:04:43.887] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 6.687 ms
+[26Apr2025 23:04:43.887] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[26Apr2025 23:04:43.889] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 1.331 ms
+[26Apr2025 23:04:43.920] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info...
+[26Apr2025 23:04:43.996] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Mod Info: jei:gui took 73.72 milliseconds
+[26Apr2025 23:04:43.998] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info took 76.92 ms
+[26Apr2025 23:04:44.031] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[26Apr2025 23:04:44.066] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 35.15 milliseconds
+[26Apr2025 23:04:44.179] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: create:jei_plugin took 102.0 milliseconds
+[26Apr2025 23:04:44.200] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 170.1 ms
+[26Apr2025 23:04:44.202] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[26Apr2025 23:04:44.207] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 4.750 ms
+[26Apr2025 23:04:44.208] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[26Apr2025 23:04:44.214] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 4.925 ms
+[26Apr2025 23:04:44.215] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[26Apr2025 23:04:44.284] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 68.59 ms
+[26Apr2025 23:04:44.286] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[26Apr2025 23:04:44.287] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 744.8 μs
+[26Apr2025 23:04:44.288] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[26Apr2025 23:04:44.307] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: sophisticatedcore:default took 18.08 milliseconds
+[26Apr2025 23:04:44.356] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: chipped:jei took 41.08 milliseconds
+[26Apr2025 23:04:44.386] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: rechiseled:chiseling_plugin took 29.80 milliseconds
+[26Apr2025 23:04:44.654] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 267.3 milliseconds
+[26Apr2025 23:04:44.678] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create_dragons_plus:jei_plugin took 22.92 milliseconds
+[26Apr2025 23:04:44.717] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create_enchantment_industry:jei took 39.58 milliseconds
+[26Apr2025 23:04:44.720] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 431.8 ms
+[26Apr2025 23:04:44.738] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[26Apr2025 23:04:44.745] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 6.291 ms
+[26Apr2025 23:04:44.748] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[26Apr2025 23:04:44.751] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[26Apr2025 23:04:44.756] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 5.702 ms
+[26Apr2025 23:04:44.761] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[26Apr2025 23:04:44.765] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 3.559 ms
+[26Apr2025 23:04:44.765] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 18.04 ms
+[26Apr2025 23:04:44.766] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[26Apr2025 23:04:44.767] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 793.4 μs
+[26Apr2025 23:04:44.767] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 1.415 s
+[26Apr2025 23:04:44.780] [Render thread/INFO] [EMI/]: [EMI] Tags synchronized, reloading EMI
+[26Apr2025 23:04:44.780] [Render thread/INFO] [EMI/]: [EMI] Starting Reload
+[26Apr2025 23:04:44.782] [Thread-23/INFO] [EMI/]: [EMI] Starting EMI reload...
+[26Apr2025 23:04:44.782] [Thread-23/INFO] [EMI/]: [EMI] Clearing data
+[26Apr2025 23:04:44.816] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Minimap updated server level id: 1988939701 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[26Apr2025 23:04:44.826] [Render thread/INFO] [dev.ftb.mods.ftbultimine.FTBUltimine/]: received server config settings
+[26Apr2025 23:04:44.833] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from emi
+[26Apr2025 23:04:44.840] [Render thread/INFO] [Moonlight/]: Synced supplementaries-common.toml configs
+[26Apr2025 23:04:44.841] [Render thread/INFO] [Moonlight/]: Synced amendments-common.toml configs
+[26Apr2025 23:04:44.842] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from emi in 7ms
+[26Apr2025 23:04:44.842] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from supplementaries
+[26Apr2025 23:04:44.842] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from supplementaries in 0ms
+[26Apr2025 23:04:44.842] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from curios
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from curios in 0ms
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from ftblibrary
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from ftblibrary in 0ms
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from emi_loot
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from emi_loot in 0ms
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from emi_enchanting
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from emi_enchanting in 0ms
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initializing plugin from jemi
+[26Apr2025 23:04:44.844] [Thread-23/INFO] [EMI/]: [EMI] Initialized plugin from jemi in 0ms
+[26Apr2025 23:04:44.844] [Render thread/INFO] [snownee.jade.Jade/]: Received config from the server: 
+[26Apr2025 23:04:44.845] [Render thread/INFO] [Moonlight/]: Synced moonlight-common.toml configs
+[26Apr2025 23:04:44.845] [Thread-23/INFO] [EMI/]: [EMI] Processing tags
+[26Apr2025 23:04:44.852] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 23 advancements
+[26Apr2025 23:04:44.929] [Thread-23/INFO] [EMI/]: [EMI] Constructing index
+[26Apr2025 23:04:44.951] [Thread-23/INFO] [EMI/]: [EMI] Reloading item groups on client thread...
+[26Apr2025 23:04:44.953] [Render thread/INFO] [voicechat/]: [voicechat] Received secret
+[26Apr2025 23:04:44.955] [Render thread/INFO] [voicechat/]: [voicechat] Connecting to voice chat server: '127.0.0.1:59845'
+[26Apr2025 23:04:44.960] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[26Apr2025 23:04:44.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7ffefe10-15ac-4aaa-813c-68ef6d4f0a85
+[26Apr2025 23:04:45.007] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged authentication
+[26Apr2025 23:04:45.352] [Thread-23/INFO] [EMI/]: [EMI] Reloading item groups on client thread took 401ms
+[26Apr2025 23:04:45.426] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from emi
+[26Apr2025 23:04:45.970] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to validate voice chat connection
+[26Apr2025 23:04:46.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7ffefe10-15ac-4aaa-813c-68ef6d4f0a85
+[26Apr2025 23:04:46.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KajusLion (7ffefe10-15ac-4aaa-813c-68ef6d4f0a85) successfully connected to voice chat
+[26Apr2025 23:04:46.094] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged connection check
+[26Apr2025 23:04:46.669] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from emi in 1243ms
+[26Apr2025 23:04:46.670] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from supplementaries
+[26Apr2025 23:04:46.701] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from supplementaries in 30ms
+[26Apr2025 23:04:46.701] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from curios
+[26Apr2025 23:04:46.702] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from curios in 1ms
+[26Apr2025 23:04:46.702] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from ftblibrary
+[26Apr2025 23:04:46.702] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from ftblibrary in 0ms
+[26Apr2025 23:04:46.702] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from emi_loot
+[26Apr2025 23:04:47.054] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 11.265171 seconds
+[26Apr2025 23:04:47.055] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 71.236176 seconds
+[26Apr2025 23:04:47.702] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from emi_loot in 1000ms
+[26Apr2025 23:04:47.702] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from emi_enchanting
+[26Apr2025 23:04:47.780] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[26Apr2025 23:04:47.790] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from emi_enchanting in 88ms
+[26Apr2025 23:04:47.791] [Thread-23/INFO] [EMI/]: [EMI] Loading plugin from jemi
+[26Apr2025 23:04:47.791] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Waiting for JEI to finish reloading...
+[26Apr2025 23:04:47.791] [Thread-23/INFO] [EMI/]: [EMI] Waiting for JEI to finish...
+[26Apr2025 23:04:47.791] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] JEI reloaded!
+[26Apr2025 23:04:47.805] [Thread-23/INFO] [EMI/]: [EMI] Loading information from JEI...
+[26Apr2025 23:04:47.821] [Thread-23/INFO] [EMI/]: [EMI] Processing JEI stacks...
+[26Apr2025 23:04:47.822] [Thread-23/INFO] [EMI/]: [EMI] Processing JEI subtypes...
+[26Apr2025 23:04:47.832] [Thread-23/INFO] [EMI/]: [EMI] Processing JEI recipes...
+[26Apr2025 23:04:47.836] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Crafting
+[26Apr2025 23:04:47.837] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Crafting
+[26Apr2025 23:04:47.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Anvil
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Anvil
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Blasting
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Blasting
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Brewing
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Brewing
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Campfire Cooking
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Campfire Cooking
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Composting
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Composting
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Fuel
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Fuel
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Smelting
+[26Apr2025 23:04:47.917] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Smelting
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Smithing Table
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Smithing Table
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Smoking
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Smoking
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Stonecutting
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Stonecutting
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Workbench
+[26Apr2025 23:04:47.919] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Workbench
+[26Apr2025 23:04:48.054] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Automated Brewing
+[26Apr2025 23:04:48.054] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Automated Brewing
+[26Apr2025 23:04:48.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[26Apr2025 23:04:48.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[26Apr2025 23:04:48.121] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Automated Packing
+[26Apr2025 23:04:48.121] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Automated Packing
+[26Apr2025 23:04:48.128] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Automated Shaped Crafting
+[26Apr2025 23:04:48.128] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Automated Shaped Crafting
+[26Apr2025 23:04:48.288] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Automated Shapeless Crafting
+[26Apr2025 23:04:48.288] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Automated Shapeless Crafting
+[26Apr2025 23:04:48.304] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Block Cutting
+[26Apr2025 23:04:48.304] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Block Cutting
+[26Apr2025 23:04:48.310] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Crushing
+[26Apr2025 23:04:48.311] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Crushing
+[26Apr2025 23:04:48.312] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Deploying
+[26Apr2025 23:04:48.312] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Deploying
+[26Apr2025 23:04:48.317] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Item Draining
+[26Apr2025 23:04:48.317] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Item Draining
+[26Apr2025 23:04:48.318] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Bulk Blasting
+[26Apr2025 23:04:48.319] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Bulk Blasting
+[26Apr2025 23:04:48.320] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Bulk Haunting
+[26Apr2025 23:04:48.320] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Bulk Haunting
+[26Apr2025 23:04:48.320] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Bulk Smoking
+[26Apr2025 23:04:48.320] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Bulk Smoking
+[26Apr2025 23:04:48.320] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Bulk Washing
+[26Apr2025 23:04:48.320] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Bulk Washing
+[26Apr2025 23:04:48.321] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Manual Item Application
+[26Apr2025 23:04:48.321] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Manual Item Application
+[26Apr2025 23:04:48.327] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Mechanical Crafting
+[26Apr2025 23:04:48.327] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Mechanical Crafting
+[26Apr2025 23:04:48.332] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Milling
+[26Apr2025 23:04:48.332] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Milling
+[26Apr2025 23:04:48.333] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Mixing
+[26Apr2025 23:04:48.333] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Mixing
+[26Apr2025 23:04:48.341] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Mysterious Conversion
+[26Apr2025 23:04:48.341] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Mysterious Conversion
+[26Apr2025 23:04:48.341] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Compacting
+[26Apr2025 23:04:48.341] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Compacting
+[26Apr2025 23:04:48.342] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Pressing
+[26Apr2025 23:04:48.342] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Pressing
+[26Apr2025 23:04:48.343] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Sandpaper Polishing
+[26Apr2025 23:04:48.343] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Sandpaper Polishing
+[26Apr2025 23:04:48.343] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Sawing
+[26Apr2025 23:04:48.344] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Sawing
+[26Apr2025 23:04:48.346] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Recipe Sequence
+[26Apr2025 23:04:48.346] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Recipe Sequence
+[26Apr2025 23:04:48.347] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Filling by Spout
+[26Apr2025 23:04:48.347] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Filling by Spout
+[26Apr2025 23:04:48.350] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Bulk Coloring
+[26Apr2025 23:04:48.351] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Bulk Coloring
+[26Apr2025 23:04:48.357] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Grinding
+[26Apr2025 23:04:48.357] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Grinding
+[26Apr2025 23:04:48.358] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Printing
+[26Apr2025 23:04:48.358] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Printing
+[26Apr2025 23:04:48.381] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Charging
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Charging
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Liquid Burning
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Liquid Burning
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Rolling
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Rolling
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Information
+[26Apr2025 23:04:48.382] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Information
+[26Apr2025 23:04:48.384] [Thread-23/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Chiseling
+[26Apr2025 23:04:48.384] [Thread-23/INFO] [EMI/]: [EMI] Loading JEI data for Chiseling
+[26Apr2025 23:04:48.515] [Thread-23/INFO] [EMI/]: [EMI] Reloaded plugin from jemi in 724ms
+[26Apr2025 23:04:48.515] [Thread-23/INFO] [EMI/]: [EMI] Baking index
+[26Apr2025 23:04:48.676] [Thread-23/INFO] [EMI/]: [EMI] Registering late recipes
+[26Apr2025 23:04:48.677] [Thread-23/INFO] [EMI/]: [EMI] Baking recipes
+[26Apr2025 23:04:49.374] [Thread-23/INFO] [EMI/]: [EMI] Baked 13596 recipes in 692ms
+[26Apr2025 23:04:49.414] [Thread-23/INFO] [EMI/]: [EMI] Baking search
+[26Apr2025 23:04:50.064] [Thread-29/INFO] [EMI/]: [EMI] Baked recipes after reload in 693ms
+[26Apr2025 23:04:51.028] [Thread-23/INFO] [EMI/]: [EMI] Finishing up
+[26Apr2025 23:04:51.047] [Thread-23/INFO] [EMI/]: [EMI] Reloaded EMI in 6265ms
+[26Apr2025 23:04:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KajusLion> it works!!! WOOO!!! But now the icons disappear whenever the chat is closed. They work fine when I got the chat open. It only disappears if I'm running the mod in the modpack. It works perfectly fine whenever I runClient with gradle WorkspaceP.S. The Showc
+[26Apr2025 23:04:51.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] <KajusLion> it works!!! WOOO!!! But now the icons disappear whenever the chat is closed. They work fine when I got the chat open. It only disappears if I'm running the mod in the modpack. It works perfectly fine whenever I runClient with gradle WorkspaceP.S. The Showc
+[26Apr2025 23:04:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KajusLion> [x2 |    Glassblower]
+[26Apr2025 23:04:53.860] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] <KajusLion> [x2 |    Glassblower]
+[26Apr2025 23:05:00.691] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[26Apr2025 23:05:00.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[26Apr2025 23:05:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[26Apr2025 23:05:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[26Apr2025 23:05:04.488] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[26Apr2025 23:05:04.492] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
+[26Apr2025 23:05:04.494] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[26Apr2025 23:05:04.541] [Thread-8/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[26Apr2025 23:05:04.637] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[26Apr2025 23:05:04.640] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[26Apr2025 23:05:04.641] [Render thread/INFO] [mezz.jei.neoforge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to LISTENING
+[26Apr2025 23:05:04.641] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[26Apr2025 23:05:04.641] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[26Apr2025 23:05:04.642] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[26Apr2025 23:05:04.644] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 2.028 ms
+[26Apr2025 23:05:04.675] [Render thread/INFO] [voicechat/]: [voicechat] Clearing audio channels
+[26Apr2025 23:05:04.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KajusLion lost connection: Disconnected
+[26Apr2025 23:05:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KajusLion left the game
+[26Apr2025 23:05:04.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KajusLion
+[26Apr2025 23:05:04.744] [Render thread/INFO] [voicechat/]: [voicechat] Stopping microphone thread
+[26Apr2025 23:05:04.771] [Render thread/INFO] [voicechat/]: [voicechat] Disconnecting voicechat
+[26Apr2025 23:05:05.050] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[26Apr2025 23:05:05.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Apr2025 23:05:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Apr2025 23:05:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Apr2025 23:05:08.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[26Apr2025 23:05:08.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[26Apr2025 23:05:08.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[26Apr2025 23:05:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[26Apr2025 23:05:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Apr2025 23:05:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Apr2025 23:05:08.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Apr2025 23:05:09.049] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads

@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "net.kajuslion.displaythat.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ItemStackMixin"
+	],
+	"client": [
+		"client.ChatComponentMixin",
+		"client.ItemRendererMixin",
+		"client.ItemBlockRenderTypesMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
