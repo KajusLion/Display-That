@@ -1,4 +1,4 @@
-# Display That!
+# ✨ Display That! ✨
 Show your items off!
 
 Have you ever wanted to show your friends an item you got, but did not want to drop it or they were too far away? Well no more - with the **Display That!** mod!
@@ -16,8 +16,8 @@ We also have a feature to show off how many of that item you have in the stack:
 
 # Known bugs
 
-1. The icon won't show up whenever you send the message and the chat is closed.
-   > I don't know how to fix it :(
+1. The icon won't show up whenever you send the message and the chat is closed when installed with some mods.
+   > I don't know how to fix it, if you do please go ahead. Thanks ❤️
 
 ---
 Project on Modrinth: https://modrinth.com/mod/display-that
